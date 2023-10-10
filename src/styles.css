@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  
+}
+
+.innerFiles
+{
+  margin-left: 30px;
+}
+.buttons
+{
+display: flex;
+gap:10px;
+
+}
+
+.folder
+{
+  display: flex;
+  gap:50px;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+button{
+  background:yellow;
+  color:black;
+  border:1px solid black;
+  padding: 4px;
+  border-radius: 10px;
+  cursor: pointer;
+}
